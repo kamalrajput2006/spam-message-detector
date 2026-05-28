@@ -128,9 +128,10 @@ This project is licensed under the **MIT License**.
 
 ## 👨‍💻 Author
 
-**Kamal Rajput**
+**Aryan Ishan**
 
 * Passionate about Data Science & AI
 * Building real-world ML projects
 
 ---
+
